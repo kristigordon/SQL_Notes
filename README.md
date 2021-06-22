@@ -11,3 +11,5 @@ We can increase these by 1000 and it will still be able to follow the same gradi
 
 
 We can randomize the colors more as well. You can see how the distinguishing effects are completely lost. 
+
+ADD FREE CODE CAMP DATA ANALYTICS JUPYTER INFO HERE
